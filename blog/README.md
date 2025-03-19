@@ -7,16 +7,37 @@ heroImage: https://i.stardots.io/myxz/c126d0b50ea90346adbe0b2e71347d90_0.jpg?wid
 heroText: 明裕的小窝
 heroFullScreen: true
 tagline: 和我一起去寻找最酷最无畏的人生~~~
-#projects:
-#  - icon: folder-open
-#    name: 项目名称
-#    desc: 项目详细描述
-#    link: https://你的项目链接
-#
-#  - icon: link
-#    name: 链接名称
-#    desc: 链接详细描述
-#    link: https://链接地址
+projects:
+
+  - icon: link
+    name: 个人在线简历
+    desc: 个人在线简历
+    link: https://resume.myxz.fun/
+    
+  - icon: folder-open
+    name: 个人在线简历GitHub
+    desc: 个人在线简历GitHub
+    link: https://github.com/China-MY/Yu-Luo-Resume
+    
+  - icon: folder-open
+    name: 个人在线简历Gitee
+    desc: 个人在线简历Gitee
+    link: https://gitee.com/myxzgzs/Yu-Luo-Resume
+
+  - icon: link
+    name: 明裕的小窝
+    desc: 明裕的小窝
+    link: https://blog.myxz.fun/
+
+  - icon: folder-open
+    name: 明裕的小窝GitHub
+    desc: 明裕的小窝GitHub
+    link: https://github.com/China-MY/MYXZ-Blog
+
+  - icon: folder-open
+    name: 明裕的小窝Gitee
+    desc: 明裕的小窝Gitee
+    link: https://gitee.com/myxzgzs/MYXZ-Blog
 #
 #  - icon: book
 #    name: 书籍名称

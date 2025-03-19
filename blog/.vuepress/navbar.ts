@@ -8,26 +8,26 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "Java",
+        text: "前端技术",
         icon: "pen-to-square",
-        prefix: "Java/",
+        prefix: "前端技术/",
         children: [
             {
-              text: "Java",
+              text: "前端技术介绍",
               icon: "pen-to-square",
-              link: "Java/",
+              link: "前端技术介绍.md",
             },
         ],
       },
       {
-        text: "JavaScript",
+        text: "后端技术",
         icon: "pen-to-square",
-        prefix: "JavaScript/",
+        prefix: "后端技术/",
         children: [
             {
-              text: "JavaScript",
+              text: "后端技术",
               icon: "pen-to-square",
-              link: "JavaScript/",
+              link: "后端技术/",
             },
 
         ],
