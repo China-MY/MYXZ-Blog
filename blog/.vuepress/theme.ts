@@ -4,10 +4,10 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://china-my.github.io",
+  hostname: "https://blog.myxz.fun/",
   author: {
     name: "明裕学长",
-    url: "",
+    url: "https://blog.myxz.fun/",
   },
   logo: "https://i.stardots.io/myxz/明裕的小窝.png?width=500&rotate=0&blur=0&quality=50",
   repo: "/China-MY/",
