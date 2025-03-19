@@ -1,1 +1,1 @@
-export const sidebarData = {"/posts/":[]};
+export const sidebarData = {"/posts/":[{"text":"Java","prefix":"Java/","collapsible":true,"children":["0.Java"]},{"text":"Java Script","prefix":"JavaScript/","collapsible":true,"children":["0.JavaScript"]}]};
