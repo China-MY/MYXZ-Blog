@@ -17,7 +17,8 @@ import * as clientConfig15 from 'D:/LEARN/MY-Project/MYXZ-Blog/node_modules/@vue
 import * as clientConfig16 from 'D:/LEARN/MY-Project/MYXZ-Blog/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import * as clientConfig17 from 'D:/LEARN/MY-Project/MYXZ-Blog/node_modules/@vuepress/plugin-redirect/lib/client/config.js'
 import * as clientConfig18 from 'D:/LEARN/MY-Project/MYXZ-Blog/blog/.vuepress/.temp/theme-hope/config.js'
-import * as clientConfig19 from 'D:/LEARN/MY-Project/MYXZ-Blog/node_modules/@vuepress/plugin-comment/lib/client/config.js'
+import * as clientConfig19 from 'D:/LEARN/MY-Project/MYXZ-Blog/blog/.vuepress/.temp/docsearch/config.js'
+import * as clientConfig20 from 'D:/LEARN/MY-Project/MYXZ-Blog/node_modules/@vuepress/plugin-comment/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -40,4 +41,5 @@ export const clientConfigs = [
   clientConfig17,
   clientConfig18,
   clientConfig19,
+  clientConfig20,
 ].map((m) => m.default).filter(Boolean)

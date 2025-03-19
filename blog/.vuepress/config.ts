@@ -1,5 +1,7 @@
 import {defineUserConfig} from "vuepress";
 import {commentPlugin} from '@vuepress/plugin-comment'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -13,6 +15,22 @@ export default defineUserConfig({
     // 和 PWA 一起启用
     // shouldPrefetch: false,
     plugins: [
+        // 搜索
+        docsearchPlugin({
+            appId: '<APP_ID>',
+            apiKey: '<API_KEY>',
+            indexName: '<INDEX_NAME>',
+            locales: {
+                '/': {
+                    placeholder: '搜索文档',
+                    translations: {
+                        button: {
+                            buttonText: '搜索文档',
+                        },
+                    },
+                },
+            },
+        }),
         // 评论
         commentPlugin({
             provider: 'Giscus',
