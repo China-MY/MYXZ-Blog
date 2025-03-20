@@ -2,7 +2,7 @@
 title: 关于我
 index: false
 icon: laptop-code
-cover: /assets/images/cover2.jpg
+cover: http://cloud.myxz.fun//blog/logo.jpg
 category:
   - 关于我
   - 个人简历
