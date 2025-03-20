@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: house
 title: 主页
-heroImage: https://i.stardots.io/myxz/c126d0b50ea90346adbe0b2e71347d90_0.jpg?width=500&rotate=0&blur=0&quality=50
+heroImage: http://cloud.myxz.fun/blog/logo.jpg
 heroText: 明裕的小窝
 heroFullScreen: true
 tagline: 和我一起去寻找最酷最无畏的人生~~~
@@ -38,6 +38,11 @@ projects:
     name: 明裕的小窝Gitee
     desc: 明裕的小窝Gitee
     link: https://gitee.com/myxzgzs/MYXZ-Blog
+
+  - icon: folder-open
+    name: 博客和个人简历搭建教程
+    desc: 博客和个人简历搭建教程
+    link: /notes/2025/03/20250319-博客和个人简历搭建之旅.md
 #
 #  - icon: book
 #    name: 书籍名称
@@ -61,5 +66,3 @@ projects:
 
 footer: 明裕的小窝 | MIT Licensed 
 ---
-
-[//]: # (相关配置文档请见 [博客主页]&#40;https://theme-hope.vuejs.press/zh/guide/blog/home.html&#41;。)
