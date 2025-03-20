@@ -17,9 +17,9 @@ export default defineUserConfig({
     plugins: [
         // 搜索
         docsearchPlugin({
-            appId: '<APP_ID>',
-            apiKey: '<API_KEY>',
-            indexName: '<INDEX_NAME>',
+            appId: 'HTRTJQS8Z2',
+            apiKey: '76f2da0b7810fe468869dca3b513d32f',
+            indexName: 'myxz',
             locales: {
                 '/': {
                     placeholder: '搜索文档',
