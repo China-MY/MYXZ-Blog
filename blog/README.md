@@ -43,6 +43,18 @@ projects:
     name: 博客和个人简历搭建教程
     desc: 博客和个人简历搭建教程
     link: /notes/2025/03/20250319-博客和个人简历搭建之旅.md
+      
+  - icon: link
+    name: 对象存储推荐
+    desc: 七牛云推荐
+    link: https://s.qiniu.com/6Fbe2i
+    
+  - icon: link
+    name: VPS推荐
+    desc: hostvds 推荐
+    link: https://hostvds.com/?affiliate_uuid=5050df9e-3038-49de-943f-b1acd6d3bfca
+
+   
 #
 #  - icon: book
 #    name: 书籍名称
