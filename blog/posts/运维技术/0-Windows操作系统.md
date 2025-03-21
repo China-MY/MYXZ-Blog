@@ -1,21 +1,15 @@
 ---
-cover: /assets/images/cover2.jpg
+cover: https://tse4-mm.cn.bing.net/th/id/OIP-C.BHJZ8wphdxEvJcQ_8jsZbgHaDt?w=4000&h=2000&rs=1&pid=ImgDetMain
 icon: pen-to-square
 date: 2025-03-19
 category:
-  - 没想好
+  - 操作系统
 tag:
-  - 没想好
+  - Windows
 star: false
 sticky: true
 ---
 
 # Windows操作系统
 
-## 标题 2
-
-这里是内容。
-
-### 标题 3
-
-这里是内容。
+关于Windows系统的运维我只想说多练，要经常备份
