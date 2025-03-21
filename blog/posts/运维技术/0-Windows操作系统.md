@@ -7,7 +7,7 @@ category:
 tag:
   - Windows
 star: false
-sticky: true
+sticky: false
 ---
 
 # Windows操作系统

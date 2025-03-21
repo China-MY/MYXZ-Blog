@@ -8,7 +8,7 @@ category:
 tag:
   - SpringBoot
 star: false
-sticky: true
+sticky: false
 ---
 
 # 一、JavaWeb

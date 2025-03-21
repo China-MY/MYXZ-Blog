@@ -10,8 +10,8 @@ category:
 tag:
   - 个人简历
   - 安利好物
-star: true
-sticky: true
+star: false
+sticky: false
 ---
 
 # 介绍页

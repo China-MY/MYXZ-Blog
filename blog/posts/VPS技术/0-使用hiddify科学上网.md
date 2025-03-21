@@ -9,7 +9,7 @@ tag:
   - hiddify
   - 科学上网
 star: false
-sticky: true
+sticky: false
 ---
 
 # 使用hiddify科学上网
