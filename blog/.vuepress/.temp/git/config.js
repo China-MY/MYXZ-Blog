@@ -1,4 +1,4 @@
-import { Contributors } from "D:/LEARN/MY-Project/MYXZ-Blog/node_modules/@vuepress/plugin-git/lib/client/components/Contributors.js";
+import { Contributors } from "D:/MYXZ-Blog/node_modules/@vuepress/plugin-git/lib/client/components/Contributors.js";
 
 export default {
   enhance: ({ app }) => {

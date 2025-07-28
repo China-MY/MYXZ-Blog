@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://china-my.github.io/sitemap.xml
+Sitemap: https://blog.myxz.fun/sitemap.xml

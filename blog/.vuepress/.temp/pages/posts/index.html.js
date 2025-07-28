@@ -1,16 +1,3 @@
-import comp from "D:/LEARN/MY-Project/MYXZ-Blog/blog/.vuepress/.temp/pages/posts/index.html.vue"
-const data = JSON.parse("{\"path\":\"/posts/\",\"title\":\"知识库目录\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"知识库目录\",\"index\":false,\"icon\":\"laptop-code\",\"category\":[\"知识库目录\"],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://blog.myxz.fun/posts/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"明裕的小窝\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"知识库目录\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"知识库目录\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"明裕学长\\\",\\\"url\\\":\\\"https://blog.myxz.fun/\\\"}]}\"]]},\"readingTime\":{\"minutes\":0.06,\"words\":19},\"filePathRelative\":\"posts/README.md\",\"excerpt\":\"\"}")
+import comp from "D:/MYXZ-Blog/blog/.vuepress/.temp/pages/posts/index.html.vue"
+const data = JSON.parse("{\"path\":\"/posts/\",\"title\":\"知识库目录\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"知识库目录\",\"index\":false,\"icon\":\"laptop-code\",\"category\":[\"知识库目录\"],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://blog.myxz.fun/posts/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"明裕的小窝\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"知识库目录\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2025-03-19T14:20:24.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2025-03-19T14:20:24.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"知识库目录\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2025-03-19T14:20:24.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"明裕学长\\\",\\\"url\\\":\\\"https://blog.myxz.fun/\\\"}]}\"]]},\"git\":{\"createdTime\":1742394024000,\"updatedTime\":1742394024000,\"contributors\":[{\"name\":\"myxz\",\"username\":\"myxz\",\"email\":\"luoyu2004@gamil.com\",\"commits\":1,\"url\":\"https://github.com/myxz\"}]},\"readingTime\":{\"minutes\":0.06,\"words\":19},\"filePathRelative\":\"posts/README.md\",\"localizedDate\":\"2025年3月19日\",\"excerpt\":\"\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

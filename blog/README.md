@@ -6,7 +6,8 @@ title: 主页
 heroImage: http://cloud.myxz.fun/blog/logo.jpg
 heroText: 明裕的小窝
 heroFullScreen: true
-tagline: 和我一起去寻找最酷最无畏的人生~~~
+tagline: 此生唯一：悦宝~~~
+#和我一起去寻找最酷最无畏的人生~~~
 projects:
 
   - icon: link
