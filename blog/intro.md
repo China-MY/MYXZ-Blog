@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: /images//blog/logo.jpg
+cover: /images/blog/logo.jpg
 ---
 
 # 介绍页
