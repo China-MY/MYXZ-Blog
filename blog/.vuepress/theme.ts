@@ -9,7 +9,7 @@ export default hopeTheme({
     name: "明裕学长",
     url: "https://blog.myxz.fun/",
   },
-  logo: "http://icloud.xn--2hv178e.top//blog/mylogo.png",
+  logo: "/images//blog/mylogo.png",
   repo: "/China-MY/",
   docsDir: "blog",
 

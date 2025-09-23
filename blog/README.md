@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: house
 title: 主页
-heroImage: http://icloud.xn--2hv178e.top/blog/logo.jpg
+heroImage: /images/blog/logo.jpg
 heroText: 明裕的小窝
 heroFullScreen: true
 tagline: 此生唯一：小悦
