@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: http://cloud.myxz.fun//blog/logo.jpg
+cover: http://icloud.xn--2hv178e.top///blog/logo.jpg
 ---
 
 # 介绍页

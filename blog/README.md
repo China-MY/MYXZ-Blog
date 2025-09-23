@@ -3,10 +3,10 @@ home: true
 layout: BlogHome
 icon: house
 title: 主页
-heroImage: http://cloud.myxz.fun/blog/logo.jpg
+heroImage: http://icloud.xn--2hv178e.top//blog/logo.jpg
 heroText: 明裕的小窝
 heroFullScreen: true
-tagline: 此生唯一：悦宝~~~
+tagline: 此生唯一：小悦
 #和我一起去寻找最酷最无畏的人生~~~
 projects:
 

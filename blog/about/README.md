@@ -2,7 +2,7 @@
 title: 关于我
 index: false
 icon: laptop-code
-cover: http://cloud.myxz.fun//blog/logo.jpg
+cover: http://icloud.xn--2hv178e.top///blog/logo.jpg
 category:
   - 关于我
   - 个人简历
@@ -42,7 +42,7 @@ sticky: false
 
     https://www.codefather.cn/vip?shareCode=47zy7c
 
-    ![编程导航邀请海报](http://cloud.myxz.fun//blog/20250321155822311.png)
+    ![编程导航邀请海报](http://icloud.xn--2hv178e.top///blog/20250321155822311.png)
 
 ## 2、非常好的vps服务器商
 
