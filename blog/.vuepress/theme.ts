@@ -4,10 +4,10 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://blog.myxz.fun/",
+  hostname: "https://blog.明裕.top/",
   author: {
     name: "明裕学长",
-    url: "https://blog.myxz.fun/",
+    url: "https://blog.明裕.top/",
   },
   logo: "http://icloud.xn--2hv178e.top/blog/mylogo.png",
   repo: "/China-MY/",
@@ -48,7 +48,7 @@ export default hopeTheme({
       Youtube: "https://www.youtube.com/@%E6%98%8E%E8%A3%95%E5%AD%A6%E9%95%BF",
       Zhihu: "https://www.zhihu.com/people/ai-wan-you-xi-de-xiao-hai-tun",
       // 个人简历
-      Rss: "https://resume.myxz.fun",
+      Rss: "https://resume.明裕.top",
     },
   },
 

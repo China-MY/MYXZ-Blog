@@ -13,7 +13,7 @@ projects:
   - icon: link
     name: 个人在线简历
     desc: 个人在线简历
-    link: https://resume.myxz.fun/
+    link: https://resume.明裕.top/
     
   - icon: folder-open
     name: 个人在线简历GitHub
@@ -28,7 +28,7 @@ projects:
   - icon: link
     name: 明裕的小窝
     desc: 明裕的小窝
-    link: https://blog.myxz.fun/
+    link: https://blog.明裕.top/
 
   - icon: folder-open
     name: 明裕的小窝GitHub

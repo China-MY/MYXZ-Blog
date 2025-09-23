@@ -59,6 +59,6 @@ sticky: false
 
 
 - 个人简历详情请看
-    https://resume.myxz.fun
+    https://resume.明裕.top
 
 <Catalog />

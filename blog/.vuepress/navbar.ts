@@ -143,6 +143,6 @@ export default navbar([
 
     {
         text: "前往我的简历",
-        link: "https://resume.myxz.fun",
+        link: "https://resume.明裕.top",
     },
 ]);
