@@ -1,8 +1,8 @@
-import { hasGlobalComponent } from "D:/MYXZ-Blog/node_modules/@vuepress/helper/lib/client/index.js";
-import Badge from "D:/MYXZ-Blog/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import VPCard from "D:/MYXZ-Blog/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
+import { hasGlobalComponent } from "D:/HOME/桌面/jianl/MYXZ-Blog/node_modules/@vuepress/helper/lib/client/index.js";
+import Badge from "D:/HOME/桌面/jianl/MYXZ-Blog/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import VPCard from "D:/HOME/桌面/jianl/MYXZ-Blog/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
 
-import "D:/MYXZ-Blog/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
+import "D:/HOME/桌面/jianl/MYXZ-Blog/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
 
 export default {
   enhance: ({ app }) => {

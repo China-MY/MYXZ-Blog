@@ -45,6 +45,11 @@ projects:
     desc: 博客和个人简历搭建教程
     link: /notes/2025/03/20250319-博客和个人简历搭建之旅.md
       
+  - icon: code
+    name: 简历技术栈
+    desc: 基于简历生成的关键技术文章
+    link: /posts/简历技术栈/
+
   - icon: link
     name: 对象存储推荐
     desc: 七牛云推荐

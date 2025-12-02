@@ -100,6 +100,18 @@ export default navbar([
 
                 ],
             },
+            {
+                text: "简历技术栈",
+                icon: "code",
+                prefix: "简历技术栈/",
+                children: [
+                    {
+                        text: "技术栈概览",
+                        icon: "code",
+                        link: "README.md",
+                    },
+                ],
+            },
         ],
     },
     {

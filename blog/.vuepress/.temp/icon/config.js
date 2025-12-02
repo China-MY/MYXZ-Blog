@@ -1,7 +1,7 @@
-import { hasGlobalComponent } from "D:/MYXZ-Blog/node_modules/@vuepress/plugin-icon/node_modules/@vuepress/helper/lib/client/index.js";
-import { useScriptTag } from "D:/MYXZ-Blog/node_modules/@vueuse/core/index.mjs";
+import { hasGlobalComponent } from "D:/HOME/桌面/jianl/MYXZ-Blog/node_modules/@vuepress/plugin-icon/node_modules/@vuepress/helper/lib/client/index.js";
+import { useScriptTag } from "D:/HOME/桌面/jianl/MYXZ-Blog/node_modules/@vueuse/core/index.mjs";
 import { h } from "vue";
-import { VPIcon } from "D:/MYXZ-Blog/node_modules/@vuepress/plugin-icon/lib/client/index.js"
+import { VPIcon } from "D:/HOME/桌面/jianl/MYXZ-Blog/node_modules/@vuepress/plugin-icon/lib/client/index.js"
 
 export default {
   enhance: ({ app }) => {

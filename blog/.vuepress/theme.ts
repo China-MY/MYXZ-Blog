@@ -147,6 +147,31 @@ export default hopeTheme({
 
     // search:true,
     blog: true,
+    
+    docsearch: {
+        appId: 'HTRTJQS8Z2',
+        apiKey: '76f2da0b7810fe468869dca3b513d32f',
+        indexName: 'myxz',
+        locales: {
+            '/': {
+                placeholder: '搜索文档',
+                translations: {
+                    button: {
+                        buttonText: '搜索文档',
+                    },
+                },
+            },
+        },
+    },
+
+    comment: {
+        provider: 'Giscus',
+        repo: 'China-MY/Comment-section',
+        repoId: 'R_kgDOOLAy5w',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOOLAy584CoNkF'
+    },
+
     // 启用之前需安装 @waline/client
     // 警告: 这是一个仅供演示的测试服务，在生产环境中请自行部署并使用自己的服务！
     // comment: {
