@@ -6,7 +6,7 @@ title: 主页
 heroImage: http://icloud.xn--2hv178e.top/blog/logo.jpg
 heroText: 明裕的小窝
 heroFullScreen: true
-tagline: 此生唯一：小悦
+tagline: 和我一起去寻找最酷最无畏的人生~~~
 #和我一起去寻找最酷最无畏的人生~~~
 projects:
 
